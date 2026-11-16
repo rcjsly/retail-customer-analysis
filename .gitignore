@@ -1,0 +1,32 @@
+# Local environments and secrets
+.venv/
+venv/
+node_modules/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.log
+.DS_Store
+Thumbs.db
+
+# Source archives and reproducible local databases
+data/raw/*
+!data/raw/manifest.json
+!data/raw/uci_metadata.json
+!data/raw/README.md
+*.zip
+*.download
+*.sqlite
+*.sqlite-*
+
+# Per-customer and per-invoice derived records
+results/customer_frequency.csv
+results/customer_segments_detail.csv
+results/credit_invoice_ranking.csv
+results/invoice_ranking.csv
+results/简历与面试.md
+*.inspect.ndjson

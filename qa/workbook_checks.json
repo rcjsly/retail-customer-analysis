@@ -1,0 +1,12 @@
+{
+  "sales": 10271034.609999843,
+  "repurchase": 0.4729809976247031,
+  "input_change_verified": true,
+  "native_excel_execution_verified": false,
+  "chart_series": [
+    {
+      "values": "'经营看板'!$F$25:$F$37",
+      "categories": "'经营看板'!$E$25:$E$37"
+    }
+  ]
+}

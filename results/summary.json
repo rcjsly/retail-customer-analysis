@@ -1,0 +1,36 @@
+{
+  "source_rows": 541909,
+  "start": "2010-12-01 08:26:00",
+  "end": "2011-12-09 12:50:00",
+  "sales_gbp": 10271034.61,
+  "credits_gbp": 478724.18,
+  "signed_amount_gbp": 9792310.43,
+  "orders": 19773,
+  "aov_gbp": 519.4474591614828,
+  "known_customers": 4334,
+  "known_customer_sales_share": 0.8529877449220283,
+  "repeat_customers": 2829,
+  "observed_repeat_rate": 0.6527457314259345,
+  "repurchase90_eligible": 3368,
+  "repurchase90_successes": 1593,
+  "repurchase90_rate": 0.4729809976247031,
+  "repurchase90_wilson95": [
+    0.45615982723764203,
+    0.4898637322260183
+  ],
+  "top1pct_customer_count": 44,
+  "top1pct_known_sales_share": 0.3213919140770374,
+  "duplicate_candidate_rows": 5268,
+  "dedup_sensitivity_sales_gbp": 10246820.87,
+  "excluded_duplicate_candidate_sales_gbp": 24213.74,
+  "last_complete_month": "2011-11",
+  "order_effect_gbp": 411757.22263339424,
+  "aov_effect_gbp": -60681.51263358926,
+  "decomposition_months": [
+    "2011-10",
+    "2011-11"
+  ],
+  "sales_change_gbp": 351075.7099998051,
+  "built_utc": "2026-11-16T12:35:18.526822+00:00",
+  "source_sha256": "43465a06f2ccf7c8b5bd2892bc7defb52f97487934fe93b16ae4c3936424676d"
+}

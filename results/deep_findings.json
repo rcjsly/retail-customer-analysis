@@ -1,0 +1,72 @@
+{
+  "sales_mom": 0.3172371265261127,
+  "orders_mom": 0.372069825436409,
+  "aov_mom": -0.039963490118191336,
+  "order_contribution_share": 1.1728445201567002,
+  "dedup_sales_mom": 0.31614090917743076,
+  "duplicate_sales_share": 0.0023574781820348673,
+  "top2_credit_gbp": 245653.2,
+  "top2_credit_share": 0.5131414084828554,
+  "missing_customer_rows": 135080,
+  "missing_description_rows": 1454,
+  "raw_signed_amount_gbp": 9747747.933999998,
+  "source_metadata_missing_values_claim": "no; actual file has missing values",
+  "first_observed_growth": [
+    {
+      "customer_type": "当月首次观察客户",
+      "2011-10": 163352.95,
+      "2011-11": 135056.33,
+      "change_gbp": -28296.620000000024
+    },
+    {
+      "customer_type": "未知客户",
+      "2011-10": 101023.63,
+      "2011-11": 315596.47,
+      "change_gbp": 214572.83999999997
+    },
+    {
+      "customer_type": "此前已观察客户",
+      "2011-10": 842289.95,
+      "2011-11": 1007089.4400000001,
+      "change_gbp": 164799.4900000001
+    }
+  ],
+  "top_growth_products": [
+    {
+      "stock_code": "23084",
+      "2011-10": 12256.87,
+      "2011-11": 34556.72,
+      "change_gbp": 22299.85,
+      "description": "RABBIT NIGHT LIGHT"
+    },
+    {
+      "stock_code": "22086",
+      "2011-10": 10031.390000000001,
+      "2011-11": 28985.04,
+      "change_gbp": 18953.65,
+      "description": "PAPER CHAIN KIT 50'S CHRISTMAS "
+    },
+    {
+      "stock_code": "22197",
+      "2011-10": 4813.95,
+      "2011-11": 14195.6,
+      "change_gbp": 9381.650000000001,
+      "description": "POPCORN HOLDER"
+    },
+    {
+      "stock_code": "85123A",
+      "2011-10": 4761.95,
+      "2011-11": 14136.7,
+      "change_gbp": 9374.75,
+      "description": "CREAM HANGING HEART T-LIGHT HOLDER"
+    },
+    {
+      "stock_code": "22910",
+      "2011-10": 4833.97,
+      "2011-11": 12944.49,
+      "change_gbp": 8110.5199999999995,
+      "description": "PAPER CHAIN KIT VINTAGE CHRISTMAS"
+    }
+  ],
+  "recent_repeat_customer_share": 0.5154591601292109
+}
