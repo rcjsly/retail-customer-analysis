@@ -46,7 +46,7 @@ Python（pandas、NumPy）、SQL（SQLite）、Excel、HTML/CSS/JavaScript、Coh
 - **官方原始文件**：[下载ZIP](https://archive.ics.uci.edu/static/public/352/online+retail.zip)
 - **本次分析来源记录**：[manifest](data/raw/manifest.json) · [UCI元信息](data/raw/uci_metadata.json)
 
-仓库保留聚合分析与来源信息；原始Excel、ZIP、大型SQLite及逐客户明细由脚本生成，不纳入Git。全部分析使用真实交易，没有生成模拟数据。自行计算的哈希用于检测文件变化，不是UCI数字签名。数据许可与署名要求以官方页面为准。
+仓库保留聚合分析与来源信息；原始Excel、ZIP、大型SQLite及逐客户明细由脚本生成，不纳入Git。全部分析使用真实交易，没有生成模拟数据。自行计算的哈希用于检测文件变化，不是UCI数字签名。UCI数据页面标注数据许可为 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)，原始数据与衍生成果应保留来源及署名。
 
 ## 复现
 

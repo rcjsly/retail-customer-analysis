@@ -3,6 +3,7 @@
 *.sql text eol=lf
 *.md text eol=lf
 *.mjs text eol=lf
+*.csv text eol=lf whitespace=-blank-at-eol
 *.cmd text eol=crlf
 *.png binary
 *.xlsx binary

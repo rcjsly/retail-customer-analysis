@@ -5,4 +5,6 @@
 
 引用：Chen, D. (2015). Online Retail. UCI Machine Learning Repository. https://doi.org/10.24432/C5BW33
 
+数据许可：UCI官方页面标注CC BY 4.0，https://creativecommons.org/licenses/by/4.0/ 。分析结果为基于该数据计算的衍生汇总；原始数据未改动。
+
 元数据标注无缺失，但实际原始Excel中有客户ID及描述缺失；分析按文件实测处理。
